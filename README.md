@@ -11,7 +11,7 @@ running game.
 (Windows 10 and 11, 64-bit)
 
 It installs for your user only (no admin), adds a Start menu entry and updates itself. Then pair it from
-the **Your PCs** page on gamingenjoyer.com.
+**Settings → Your PCs** on gamingenjoyer.com.
 
 ## Source, privacy and signing
 
